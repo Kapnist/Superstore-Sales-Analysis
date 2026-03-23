@@ -76,7 +76,8 @@ The goal of this project is to analyze an e-commerce dataset to identify key dri
 
 ## 📂 Project Structure
 
-* `analysis.ipynb` → main analysis notebook
+* `Superstore-Sales-Analysis
+.ipynb` → main analysis notebook
 * `README.md` → project description
 
 ---
