@@ -35,7 +35,6 @@ The goal of this project is to analyze an e-commerce dataset to identify key dri
 * Consumer segment contributes over **50% of total revenue**
 * ![Sales Chart](custumer_segmentation.png)
 * Corporate segment shows strong potential
-* ![Sales Chart](custumer_segmentation.png)
 ### 🔹 Product Analysis
 
 * Technology is the most profitable category
@@ -53,7 +52,7 @@ The goal of this project is to analyze an e-commerce dataset to identify key dri
 * Identified top-performing markets and regions
 * ![Sales Chart](sales_and_profit_market.png)
 * Identified top-performing country and regions
-* ![Sales Chart](country.png)
+* ![Sales Chart](Sales_profit_country.png)
 ### 🔹 Shipping & Operations
 
 * Standard Class is the most used shipping mode
