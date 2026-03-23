@@ -29,7 +29,7 @@ The goal of this project is to analyze an e-commerce dataset to identify key dri
 
 * Computed total revenue, profit, and average order value
 * Identified overall business performance
-![Sales Chart](image.png)
+![Sales Chart](sales_profit_overview.png)
 ### 🔹 Customer Segmentation
 
 * Consumer segment contributes over **50% of total revenue**
